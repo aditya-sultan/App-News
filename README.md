@@ -43,9 +43,6 @@ composer install
 ```
 - jalankan perintah
 
-```
- php artisan serve
-```
 untuk menjalani sistem
 
 ## Login akun

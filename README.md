@@ -38,12 +38,13 @@ composer install
 
 - jalankan perintah untuk membuat akun
 
-  ```
+```
   php artisan db:seed --class=UserSeeder
 ```
 - jalankan perintah
-  ```
-  php artisan serve
+
+```
+ php artisan serve
 ```
 untuk menjalani sistem
 

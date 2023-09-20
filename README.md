@@ -25,4 +25,12 @@
 ```
 composer install
 ```
-  - 
+  - buat file
+```
+.env
+  ```
+  - , copy paste isi .env.example
+  - buat database dengan nama
+    ```
+    newsapp
+    ```

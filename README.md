@@ -16,3 +16,13 @@
 
 - Autentikasi/login-logout
 - Level hak akses (admin, user)
+- Admin = create, update, delete, show, comment
+- User = show, comment
+
+  ## Instalasi
+  - Clone Repository
+  - Jalankan perintah
+```
+composer install
+```
+  - 

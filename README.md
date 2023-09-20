@@ -11,3 +11,8 @@
 
 <p align="justify">Web App untuk mengelola berita
 </p>
+
+## Features / Fitur
+
+- Autentikasi/login-logout
+- Level hak akses (admin, user)

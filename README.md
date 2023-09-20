@@ -21,16 +21,32 @@
 
   ## Instalasi
   - Clone Repository
-  - Jalankan perintah
-```
-composer install
-```
   - buat file
 ```
 .env
   ```
-  - , copy paste isi .env.example
+  - copy isi .env.example ke file .env
   - buat database dengan nama
     ```
     newsapp
     ```
+
+     - Jalankan perintah
+```
+composer install
+```
+
+- jalankan perintah untuk membuat akun
+
+  ```
+  php artisan db:seed --class=UserSeeder
+```
+- jalankan perintah
+  ```
+  php artisan serve
+```
+untuk menjalani sistem
+
+## Login akun
+- Admin = Email : vampireprince@tenebrare.com | Password : admin123
+- User = Email : snowyowl2206@gmail.com | Password : user123
